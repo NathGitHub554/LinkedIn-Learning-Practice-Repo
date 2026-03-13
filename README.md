@@ -3,6 +3,7 @@ A practice repo for a LinkedIn Learning Github certification. The README file is
 
 Maybe becuase it's REALLY IMPORTANT!!!
 
+WHY DOES THIS README KEEP GETTING ADDED TO???
 THIS REPO IS GETTING LONG AND KINDA POINTLESS . . . 
 
 WANT TO KNOW WHY I'M TYPING IN ALL CAPS? Because it's a README, which is SUPER IMPORTANT!!!
